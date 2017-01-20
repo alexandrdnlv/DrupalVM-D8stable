@@ -1,5 +1,6 @@
-## It is a copy of Drupal VM project with some customizations and Drupal 8.2.5
-[Drupal VM](https://www.drupalvm.com/)
+# Drupal 8 Quick Start
+
+## It is a copy of Drupal VM project with some customizations and Drupal 8.2.5 on a board ([Drupal VM](https://www.drupalvm.com/)).
 
 ## Quick start
 1. Install the last stable version of Virtualbox(5.1+)
